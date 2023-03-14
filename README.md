@@ -2,7 +2,7 @@
 This is for the Tableau/Citi bike module.
 
 
-■ The CV page is an introduction to the data story and provides information about the author, me, Steve Reed.
+■ The CV page is an introduction to the data story and provides an introductory with the author, me, Steve Reed.
 ![cv-page-1](https://user-images.githubusercontent.com/97980927/225094378-e42e726e-7160-4551-85b4-8ff6f6574dca.PNG)
 
 ■ The Age groups page shows that younger people have longer average trip durations, but older folks are more consistent in their usage. This could suggest that younger people are more likely to take leisurely rides, while older people may be more likely to use the bikes for commuting or errands.
