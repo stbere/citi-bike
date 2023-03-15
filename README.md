@@ -10,13 +10,10 @@ This is for the Tableau/Citi bike module.
 ■ The Age groups page shows that younger people have longer average trip durations, but older folks are more consistent in their usage. This could suggest that younger people are more likely to take leisurely rides, while older people may be more likely to use the bikes for commuting or errands.
 ![userbase-page-2](https://user-images.githubusercontent.com/97980927/225094434-f1aefcc2-9cf0-4a3e-8387-a0656ad412a5.PNG)
 
-<<<<<<< HEAD
-
 
 ■ The Birth year and age page shows that people aged 30-40 are the largest user group, and age 35 has the most users at 13K. This suggests that the bike sharing service is most popular among people in their thirties.
 
 ![userage-page-3](https://user-images.githubusercontent.com/97980927/225094454-fb03699e-4213-4a21-9095-f6ff928eb096.PNG)
-
 
 
 ■ The Birth year and age page shows that people aged 30-40 are the largest user group, and age 35 has the most users at 13K. This suggests that the bike sharing service is most popular among people in their thirties.
