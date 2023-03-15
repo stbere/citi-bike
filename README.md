@@ -13,11 +13,6 @@ This is for the Tableau/Citi bike module.
 
 ■ The Birth year and age page shows that people aged 30-40 are the largest user group, and age 35 has the most users at 13K. This suggests that the bike sharing service is most popular among people in their thirties.
 
-![userage-page-3](https://user-images.githubusercontent.com/97980927/225094454-fb03699e-4213-4a21-9095-f6ff928eb096.PNG)
-
-
-■ The Birth year and age page shows that people aged 30-40 are the largest user group, and age 35 has the most users at 13K. This suggests that the bike sharing service is most popular among people in their thirties.
-
 ![userage-page-3](https://user-images.githubusercontent.com/97980927/225124136-8e00c9c1-13ce-485b-b5fc-ef07d7b46a3e.PNG)
 >>>>>>> a98af6b50f23925190afb10be6b56fe120db7629
 ![userbase-agedemo-page-4](https://user-images.githubusercontent.com/97980927/225094476-96514ce3-b614-4857-85f4-4862660143a6.PNG)
